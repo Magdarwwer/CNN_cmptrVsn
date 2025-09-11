@@ -1,0 +1,13 @@
+torch
+transformers
+easyocr
+boto3
+streamlit
+pandas
+sagemaker
+numpy
+apache-airflow
+matplotlib
+pyyaml
+pyrfc
+pyodata
