@@ -11,3 +11,9 @@ matplotlib
 pyyaml
 pyrfc
 pyodata
+seaborn
+tensorflow
+opencv-python
+keras
+scikit-learn
+pytesseract
