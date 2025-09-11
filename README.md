@@ -33,3 +33,5 @@
 
 4. Installation:
    pip install -r requirements.txt
+
+   1. creating virtual environment:
